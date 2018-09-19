@@ -1,0 +1,22 @@
+body {
+ background: rgb(167, 223, 167);   
+}
+
+#title {
+  text-align: center;
+  border: 3px solid #000000;
+}
+#survey-form {
+  margin: auto;
+  max-width: 80%;
+  border: 3px solid #000000;
+  background: #e2f0d9;
+  display: block;
+}
+#description {
+  font-size: 16px;
+  text-align: center;
+}
+#submit {
+  text-align: center;
+}
